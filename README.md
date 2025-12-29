@@ -1,5 +1,4 @@
-# Tên đề tài
-
+Blog cá nhân :
 Dự án được thực hiện nhằm phục vụ cho mục đích học tập và nghiên cứu,
 giúp áp dụng các kiến thức đã học vào thực tế.
 
