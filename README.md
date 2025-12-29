@@ -1,18 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Tên đề tài
 
+Dự án được thực hiện nhằm phục vụ cho mục đích học tập và nghiên cứu,
+giúp áp dụng các kiến thức đã học vào thực tế.
 
+## Công nghệ sử dụng
+- Node.js
+- JavaScript
+- Các thư viện liên quan
 
+## Hướng dẫn chạy chương trình
 
+**Yêu cầu:** Node.js
 
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. Cài đặt thư viện:
    `npm install`
-2. Run the app:
+2. Chạy ứng dụng:
    `npm run dev`
